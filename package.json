@@ -1,0 +1,14 @@
+{
+  "name": "tarea_6_isabel_palacios",
+  "version": "1.0.0",
+  "description": "PokeApi",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isabel Palacios",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
+}
